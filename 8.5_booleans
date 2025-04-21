@@ -1,0 +1,26 @@
+# booleans 
+
+# Without running the code, decide whether each of the following is True or False.
+
+# a. 10 > 5
+# b. 7 == 7
+# c. 3 != 3
+# d. "cat" == "Cat"
+# e. 4 <= 4
+
+# After answering on paper or in comments, use print() to check each one.
+
+# Ask the user if they brought their homework ("yes" or "no").
+# Create a variable like: has_homework = (response == "yes")
+
+# Print the Boolean value.
+# Bonus: use this Boolean in an if statement.
+
+
+# Ask the user:
+# - Did you eat breakfast? (yes/no)
+# - Did you sleep more than 6 hours? (yes/no)
+
+# Turn their answers into Boolean values.
+# If both are True, print "You're off to a good start!"
+# If either one is False, print "Make sure to take care of yourself."
